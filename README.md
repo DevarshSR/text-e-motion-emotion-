@@ -31,5 +31,5 @@ This project is an **AI-powered web application** that detects human emotions fr
 
 ---
 
-## 📂 Project Structure
+
 
